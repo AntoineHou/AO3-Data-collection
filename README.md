@@ -6,7 +6,9 @@ This collection of scripts allows to collect a set of metadata and comments from
 # Files
 
  -AO3.py : Script allowing to collect the identifier for the N most popular (Hits) fan fiction for a tag ⇒ Outputs a text file containing the tags. 
+ 
  -Metadata_ao3.py : Script allowing to collect the metadata associated with a list of tag. ⇒ Outputs a json file containing the metada for every story.
+ 
  -Commentary_ao3.py  : Script allowing to collect the commentary content and metadata for a list of story ⇒ Output a json file for each story containing the entierty of comments. 
 
 
